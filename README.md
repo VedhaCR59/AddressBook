@@ -44,7 +44,8 @@ The application follows a modular architecture with reusable components, input v
   - Example: `anju.k@domain.com`
 
 > Invalid entries are rejected with clear error messages to ensure data integrity.
-🎬 Screenshots / Demo
+
+## 🎬 Screenshots / Demo
 ![Screenshot 2025-07-03 211955](https://github.com/user-attachments/assets/e225d319-5e59-4b40-8734-4eb47f1c6bd2)
 ![Screenshot 2025-07-03 212045](https://github.com/user-attachments/assets/dd01eb1c-a95d-4550-ba4e-9dcec021dab7)
 ![Screenshot 2025-07-03 212113](https://github.com/user-attachments/assets/b9edf2c8-acce-499f-bfa9-1226feb87d39)
@@ -78,7 +79,7 @@ gcc *.c -o address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
 
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
  Vedha C R
 💻 C Programmer | Project Enthusiast
 📫 Email: vedhagowda59@gmail.com
