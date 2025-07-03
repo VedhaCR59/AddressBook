@@ -46,7 +46,7 @@ The application follows a modular architecture with reusable components, input v
 6. ## 🖥️ How to Compile & Run
 
 ```bash
-gcc *.c -o address_book
+gcc *.c -o address_book 
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
 🎬 Screenshots / Demo
