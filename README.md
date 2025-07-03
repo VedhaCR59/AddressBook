@@ -50,17 +50,14 @@ The application follows a modular architecture with reusable components, input v
 3. **Data is Validated** – Ensures all inputs are in proper format.
 4. **Persistent Save** – All contacts are saved in `contacts.csv`.
 5. **Load Existing Data** – Program auto-loads contacts from file.
-📈 Future Enhancements
+## 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
-
 🗄️ Switch to SQLite / MySQL backend
 🔐 Password-protected user login
-
 🧾 Export to Excel or JSON
-
 🌍 Multilingual UI support
-
 ⏱️ Track creation & update timestamps
+
 ## 🖥️ How to Compile & Run
 ```bash
 gcc *.c -o address_book 
@@ -82,7 +79,7 @@ gcc *.c -o address_book
 Vedha C R
 💻 C Programmer | Project Enthusiast
 📫 Email: vedhagowda59@gmail.com
-🌐 GitHub: github.com/yourusername
+🌐 GitHub: (https://github.com/VedhaCR59)
 🔗 LinkedIn: www.linkedin.com/in/vedhacr
 📄 License
 This project is licensed under the MIT License.
