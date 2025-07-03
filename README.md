@@ -50,7 +50,7 @@ gcc *.c -o address_book
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
 🎬 Screenshots / Demo
-![Screenshot 2025-07-03 211955](https://github.com/user-attachments/assets/91b6b06e-da31-4e0d-bdeb-26fe3f0b1d56)
+![image](https://user-images.githubusercontent.com/YourImageID.png)
 
 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
