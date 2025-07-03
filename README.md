@@ -11,6 +11,7 @@ The application follows a modular architecture with reusable components, input v
 - 📝 Edit existing contact details
 - 🗑️ Delete contacts with confirmation
 - 📋 View all saved contacts in tabular format
+- ![image](https://user-images.githubusercontent.com/YourImageID.png)
 - 📂 Save and Load contacts from a `.csv` file
 - 🔐 Validates Name, Email, Phone with custom rules
 - 🆘 Emergency contacts support (Ambulance, Police, etc.)
