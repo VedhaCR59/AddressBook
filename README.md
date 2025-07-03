@@ -79,7 +79,7 @@ gcc *.c -o address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
 
 
-## 👨‍💻 Developed By
+👨‍💻 Developed By
  Vedha C R
 💻 C Programmer | Project Enthusiast
 📫 Email: vedhagowda59@gmail.com
@@ -87,6 +87,6 @@ gcc *.c -o address_book
 🔗 LinkedIn: www.linkedin.com/in/vedhacr
 
 
-## 📄 License
+📄 License
 This project is licensed under the MIT License.
 Feel free to fork, contribute, or use it in your own projects!
