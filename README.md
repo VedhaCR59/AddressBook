@@ -52,10 +52,15 @@ The application follows a modular architecture with reusable components, input v
 5. **Load Existing Data** – Program auto-loads contacts from file.
 ## 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
+
 🗄️ Switch to SQLite / MySQL backend
+
 🔐 Password-protected user login
+
 🧾 Export to Excel or JSON
+
 🌍 Multilingual UI support
+
 ⏱️ Track creation & update timestamps
 
 ## 🖥️ How to Compile & Run
@@ -64,23 +69,15 @@ gcc *.c -o address_book
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
 
-📈 Future Enhancements
-🌐 GUI using GTK or ncurses
 
-🗄️ Switch to SQLite / MySQL backend
-🔐 Password-protected user login
-
-🧾 Export to Excel or JSON
-
-🌍 Multilingual UI support
-
-⏱️ Track creation & update timestamps
 👨‍💻 Developed By
-Vedha C R
+ Vedha C R
 💻 C Programmer | Project Enthusiast
 📫 Email: vedhagowda59@gmail.com
 🌐 GitHub: (https://github.com/VedhaCR59)
 🔗 LinkedIn: www.linkedin.com/in/vedhacr
-📄 License
+
+
+## 📄 License
 This project is licensed under the MIT License.
 Feel free to fork, contribute, or use it in your own projects!
