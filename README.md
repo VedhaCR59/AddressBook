@@ -11,7 +11,6 @@ The application follows a modular architecture with reusable components, input v
 - 📝 Edit existing contact details
 - 🗑️ Delete contacts with confirmation
 - 📋 View all saved contacts in tabular format
-- ![image](https://user-images.githubusercontent.com/YourImageID.png)
 - 📂 Save and Load contacts from a `.csv` file
 - 🔐 Validates Name, Email, Phone with custom rules
 - 🆘 Emergency contacts support (Ambulance, Police, etc.)
@@ -37,6 +36,12 @@ The application follows a modular architecture with reusable components, input v
   - Example: `anju.k@domain.com`
 
 > Invalid entries are rejected with clear error messages to ensure data integrity.
+🎬 Screenshots / Demo
+![Screenshot 2025-07-03 211955](https://github.com/user-attachments/assets/e225d319-5e59-4b40-8734-4eb47f1c6bd2)
+![Screenshot 2025-07-03 212045](https://github.com/user-attachments/assets/dd01eb1c-a95d-4550-ba4e-9dcec021dab7)
+ ![Screenshot 2025-07-03 212113](https://github.com/user-attachments/assets/b9edf2c8-acce-499f-bfa9-1226feb87d39)
+
+
 ## 🧠 How It Works
 
 1. **Launch the Program** – Menu-driven interface appears.
@@ -45,13 +50,13 @@ The application follows a modular architecture with reusable components, input v
 4. **Persistent Save** – All contacts are saved in `contacts.csv`.
 5. **Load Existing Data** – Program auto-loads contacts from file.
 6. ## 🖥️ How to Compile & Run
+##🎬 Screenshots / Demo
 
 ```bash
 gcc *.c -o address_book 
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
-🎬 Screenshots / Demo
-![image](https://user-images.githubusercontent.com/YourImageID.png)
+
 
 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
