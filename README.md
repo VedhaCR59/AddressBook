@@ -18,6 +18,7 @@ The application follows a modular architecture with reusable components, input v
 - 🧼 Clean, modular codebase — easy to maintain and extend
 - ## 📂 Project Structure
 - AddressBook/
+   
 ├── a.out # Compiled executable (generated after build)
 
 ├── main.c # Program entry point & menu handling
