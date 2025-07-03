@@ -19,12 +19,19 @@ The application follows a modular architecture with reusable components, input v
 - ## 📂 Project Structure
 - AddressBook/
 ├── a.out # Compiled executable (generated after build)
+
 ├── main.c # Program entry point & menu handling
+
 ├── contact.c # Functions for adding, editing, deleting contacts
+
 ├── contact.h # Header file for contact-related declarations
+
 ├── file.c # Functions for saving/loading contacts from CSV
+
 ├── file.h # Header file for file operations
+
 ├── contacts.csv # Persistent contact data stored in CSV format
+
 └── README.md # Project documentation (you’re reading it!)
 # 🔐 Input Validation
 
