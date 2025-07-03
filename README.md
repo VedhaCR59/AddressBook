@@ -49,6 +49,8 @@ The application follows a modular architecture with reusable components, input v
 gcc *.c -o address_book
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
+🎬 Screenshots / Demo
+![Screenshot 2025-07-03 211955](https://github.com/user-attachments/assets/91b6b06e-da31-4e0d-bdeb-26fe3f0b1d56)
 
 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
