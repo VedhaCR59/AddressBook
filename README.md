@@ -39,9 +39,10 @@ The application follows a modular architecture with reusable components, input v
 🎬 Screenshots / Demo
 ![Screenshot 2025-07-03 211955](https://github.com/user-attachments/assets/e225d319-5e59-4b40-8734-4eb47f1c6bd2)
 ![Screenshot 2025-07-03 212045](https://github.com/user-attachments/assets/dd01eb1c-a95d-4550-ba4e-9dcec021dab7)
- ![Screenshot 2025-07-03 212113](https://github.com/user-attachments/assets/b9edf2c8-acce-499f-bfa9-1226feb87d39)
-
-
+![Screenshot 2025-07-03 212113](https://github.com/user-attachments/assets/b9edf2c8-acce-499f-bfa9-1226feb87d39)
+![Screenshot 2025-07-03 212149](https://github.com/user-attachments/assets/3f802f16-93f5-46cf-b9c2-665c7135fe3a)
+![Screenshot 2025-07-03 212221](https://github.com/user-attachments/assets/1d59b1a3-55ca-4ba1-89c5-23ff12426797)
+![Screenshot 2025-07-03 213758](https://github.com/user-attachments/assets/53b03b5b-2fee-4a0c-9975-bc41cc776671)
 ## 🧠 How It Works
 
 1. **Launch the Program** – Menu-driven interface appears.
@@ -49,14 +50,22 @@ The application follows a modular architecture with reusable components, input v
 3. **Data is Validated** – Ensures all inputs are in proper format.
 4. **Persistent Save** – All contacts are saved in `contacts.csv`.
 5. **Load Existing Data** – Program auto-loads contacts from file.
-6. ## 🖥️ How to Compile & Run
-##🎬 Screenshots / Demo
+📈 Future Enhancements
+🌐 GUI using GTK or ncurses
 
+🗄️ Switch to SQLite / MySQL backend
+🔐 Password-protected user login
+
+🧾 Export to Excel or JSON
+
+🌍 Multilingual UI support
+
+⏱️ Track creation & update timestamps
+## 🖥️ How to Compile & Run
 ```bash
 gcc *.c -o address_book 
 ./address_book
 ✅ Works on Windows (with GCC), Linux, and macOS.
-
 
 📈 Future Enhancements
 🌐 GUI using GTK or ncurses
