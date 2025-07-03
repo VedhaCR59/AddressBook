@@ -1,1 +1,72 @@
-# AddressBook
+# 📒 Address Book Management System in C
+A robust and modular **command-line Address Book application** developed in C programming language. It allows users to efficiently manage contacts with features such as add, search, edit, delete, and persistent storage using CSV files. Designed with a real-world contact manager in mind, the system emphasizes clean user interaction, strong input validation, and file-based data management.
+## 🧾 Project Description
+Managing contacts manually or through outdated tools can be inefficient. This project offers a lightweight terminal-based alternative that supports all core contact operations with a focus on simplicity, data accuracy, and long-term usability.
+
+The application follows a modular architecture with reusable components, input validations, and CSV-based file I/O that simulates real-world applications. Suitable for beginners learning file handling, structs, and modular C programming.
+## 📌 Key Features
+
+- ✅ Add New Contact with validation
+- 🔍 Search by Name / Email / Phone (case-insensitive & partial match)
+- 📝 Edit existing contact details
+- 🗑️ Delete contacts with confirmation
+- 📋 View all saved contacts in tabular format
+- 📂 Save and Load contacts from a `.csv` file
+- 🔐 Validates Name, Email, Phone with custom rules
+- 🆘 Emergency contacts support (Ambulance, Police, etc.)
+- ❌ Prevents duplicate contact entries (by phone/email)
+- 🧼 Clean, modular codebase — easy to maintain and extend
+- ## 📂 Project Structure
+- AddressBook/
+├── a.out # Compiled executable (generated after build)
+├── main.c # Program entry point & menu handling
+├── contact.c # Functions for adding, editing, deleting contacts
+├── contact.h # Header file for contact-related declarations
+├── file.c # Functions for saving/loading contacts from CSV
+├── file.h # Header file for file operations
+├── contacts.csv # Persistent contact data stored in CSV format
+└── README.md # Project documentation (you’re reading it!)
+# 🔐 Input Validation
+
+- **Name**: Alphabet-only (no digits/symbols)
+  - Example: `Anju`
+- **Phone**: Exactly 10 digits, numeric only
+  - Example: `9876543210`
+- **Email**: One `@`, valid domain ending with `.com`
+  - Example: `anju.k@domain.com`
+
+> Invalid entries are rejected with clear error messages to ensure data integrity.
+## 🧠 How It Works
+
+1. **Launch the Program** – Menu-driven interface appears.
+2. **Choose an Option** – Add, Edit, Search, Delete, List, Emergency.
+3. **Data is Validated** – Ensures all inputs are in proper format.
+4. **Persistent Save** – All contacts are saved in `contacts.csv`.
+5. **Load Existing Data** – Program auto-loads contacts from file.
+6. ## 🖥️ How to Compile & Run
+
+```bash
+gcc *.c -o address_book
+./address_book
+✅ Works on Windows (with GCC), Linux, and macOS.
+
+📈 Future Enhancements
+🌐 GUI using GTK or ncurses
+
+🗄️ Switch to SQLite / MySQL backend
+🔐 Password-protected user login
+
+🧾 Export to Excel or JSON
+
+🌍 Multilingual UI support
+
+⏱️ Track creation & update timestamps
+👨‍💻 Developed By
+Vedha C R
+💻 C Programmer | Project Enthusiast
+📫 Email: vedhagowda59@gmail.com
+🌐 GitHub: github.com/yourusername
+🔗 LinkedIn: www.linkedin.com/in/vedhacr
+📄 License
+This project is licensed under the MIT License.
+Feel free to fork, contribute, or use it in your own projects!
