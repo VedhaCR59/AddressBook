@@ -71,22 +71,20 @@ The application follows a modular architecture with reusable components, input v
 🌍 Multilingual UI support
 
 ⏱️ Track creation & update timestamps
-
-## 🖥️ How to Compile & Run
-```bash
-gcc *.c -o address_book 
-./address_book
-✅ Works on Windows (with GCC), Linux, and macOS.
-
-
+🖥️ How to Compile & Run
+bash
+Copy
+Edit
+gcc *.c -o hotel_management
+./hotel_management
 👨‍💻 Developed By
- Vedha C R
+Vedha C R
 💻 C Programmer | Project Enthusiast
 📫 Email: vedhagowda59@gmail.com
-🌐 GitHub: (https://github.com/VedhaCR59)
+🌐 GitHub: https://github.com/VedhaCR59
 🔗 LinkedIn: www.linkedin.com/in/vedhacr
-
 
 📄 License
 This project is licensed under the MIT License.
 Feel free to fork, contribute, or use it in your own projects!
+
