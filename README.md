@@ -83,6 +83,7 @@ gcc *.c -o hotel_management
 📫 **Email**: [vedhagowda59@gmail.com](mailto:vedhagowda59@gmail.com)  
 🌐 **GitHub**: [https://github.com/VedhaCR59](https://github.com/VedhaCR59)  
 🔗 **LinkedIn**: [https://www.linkedin.com/in/vedhacr](https://www.linkedin.com/in/vedhacr)
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
