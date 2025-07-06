@@ -76,13 +76,12 @@ The application follows a modular architecture with reusable components, input v
 ```bash
 gcc *.c -o hotel_management
 ./hotel_management
-## 👨‍💻 Developed By
-
-**Vedha C R**  
-💻 *C Programmer | Project Enthusiast*  
-📫 **Email**: [vedhagowda59@gmail.com](mailto:vedhagowda59@gmail.com)  
-🌐 **GitHub**: [https://github.com/VedhaCR59](https://github.com/VedhaCR59)  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/vedhacr](https://www.linkedin.com/in/vedhacr)
+👨‍💻 Developed By
+Vedha C R
+💻 C Programmer | Project Enthusiast
+📫 Email: vedhagowda59@gmail.com
+🌐 🖥️ GitHub: https://github.com/VedhaCR59
+🔗 LinkedIn: https://www.linkedin.com/in/vedhacr
 
 ## 📄 License
 
